@@ -1,0 +1,8 @@
+# Ceci est un code python 
+print("Hello World!")
+
+// Ceci est un code Java
+System.out.println("Hello World!")
+
+// Bonne journée ! :-)
+
